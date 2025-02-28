@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 </h1>
-<p align="center"><img src="https://th.bing.com/th/id/OIP.Sblj7f5XK5TIlUhU5C8coQHaEK?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"/></p>
+<p align="center"><img src="https://th.bing.com/th/id/OIP.Sblj7f5XK5TIlUhU5C8coQHaEK?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="600" height="400"/></p>
 <h3 align="center">I am Yash Raj.You can find me outside the repository</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash12221914&label=Profile%20views&color=0e75b6&style=flat" alt="yash12221914" /> </p>
