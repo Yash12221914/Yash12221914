@@ -19,10 +19,10 @@
 
 <p align="left">
   Goals in 2025:-
-<li>Learn data</li>
+<li>Learn data manipulation</li>
 <li>Build few MERN projects</li>
 <li>Get used to with (cpp+dsa)</li>
-<li>and.....</li>
+<li>Get some testing skills</li>
 </p>
 
 <h3 align="left">Connect with me:</h3>
