@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash12221914&label=Profile%20views&color=0e75b6&style=flat" alt="yash12221914" /> </p>
 
 
-<p align="left">I mostly talk about, Algorithms, Data analysis, Machine Learning, developement, Android Sometimes and life issue of other's</p>
+<p align="left">I mostly talk about, Algorithms, Data analysis, Machine Learning, developement, Testing, Android Sometimes and life issue of other's</p>
 
 - 🌱 I’m currently learning **MERN , ANDROID , DATA DCIENCE**
 
