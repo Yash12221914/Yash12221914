@@ -7,7 +7,7 @@
 
 <p align="left">I mostly talk about, Algorithms, Data analysis, Machine Learning, developement, Testing, Android Sometimes and life issue of other's</p>
 
-- 🌱 I’m currently learning **MERN , ANDROID , DATA DCIENCE**
+- 🌱 I’m currently learning Testing and Automation , Some Freelancing , DATA SCIENCE**
 
 - 💬 Ask me about **Networks(neural),Oop's, Backend, Github(ofc not)**
 
@@ -23,6 +23,14 @@
 <li>Build few MERN projects</li>
 <li>Get used to with (cpp+dsa)</li>
 <li>Get some testing skills</li>
+</p>
+<h3>Completed</h3>
+<p align="left">
+  Goals in 2026:-
+<li>Learn all Testing and Automation tools & build my own testing and automation extension</li>
+<li>Build few big data projects</li>
+<li>Only rated Contests</li>
+<li>Brush up all the integrations with everything</li>
 </p>
 
 <h3 align="left">Connect with me:</h3>
